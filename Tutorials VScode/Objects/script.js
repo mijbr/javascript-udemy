@@ -6,5 +6,5 @@ var john = {
     isMarried: false
 };
 
-console.log(john);
+console.log(john.firstname);
 
