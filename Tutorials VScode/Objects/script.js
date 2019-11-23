@@ -1,3 +1,10 @@
-alert('Hello 3');
-alert('git 2');
+var john = {
+    firstname: 'john',
+    lastname: 'smith',
+    bithyear: 1990,
+    family: ['jane', 'jack', 'bob', 'emily'],
+    isMarried: false
+};
+
+console.log(john);
 
